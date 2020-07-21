@@ -4,7 +4,7 @@ new Vue({
     results: []
   },
   created() {
-    axios.get("http://api.nhk.or.jp/v2/pg/now/130/g1.json?key={あなたのAPIキー}")
+    axios.get("http://api.nhk.or.jp/v2/pg/now/130/g1.json?key={YOUR_API_KEY}")
     .then(response => {
       this.results = {
         previous_title: response.data.nowonair_list.g1.previous.title,
