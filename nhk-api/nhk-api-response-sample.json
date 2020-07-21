@@ -1,0 +1,112 @@
+{
+    "nowonair_list": {
+        "g1": {
+            "previous": {
+                "id": "2020072119978",
+                "event_id": "19978",
+                "start_time": "2020-07-21T22:00:00+09:00",
+                "end_time": "2020-07-21T22:30:00+09:00",
+                "area": {
+                    "id": "130",
+                    "name": "東京"
+                },
+                "service": {
+                    "id": "g1",
+                    "name": "ＮＨＫ総合１",
+                    "logo_s": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+                        "width": "100",
+                        "height": "50"
+                    },
+                    "logo_m": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+                        "width": "200",
+                        "height": "100"
+                    },
+                    "logo_l": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+                        "width": "200",
+                        "height": "200"
+                    }
+                },
+                "title": "クローズアップ現代＋▽感染再拡大の最前線　保健所はＰＣＲ検査は抗体・注目の研究",
+                "subtitle": "増える経路不明・若者だけでなく…感染はどこまで広がっている？▽血栓の治療を難しくする特徴も…医療現場の苦闘▽世界の感染拡大で各国の医療物資争奪戦再び？日本は",
+                "genres": [
+                    "0002",
+                    "0800",
+                    "0000"
+                ]
+            },
+            "present": {
+                "id": "2020072119979",
+                "event_id": "19979",
+                "start_time": "2020-07-21T22:30:00+09:00",
+                "end_time": "2020-07-21T23:15:00+09:00",
+                "area": {
+                    "id": "130",
+                    "name": "東京"
+                },
+                "service": {
+                    "id": "g1",
+                    "name": "ＮＨＫ総合１",
+                    "logo_s": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+                        "width": "100",
+                        "height": "50"
+                    },
+                    "logo_m": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+                        "width": "200",
+                        "height": "100"
+                    },
+                    "logo_l": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+                        "width": "200",
+                        "height": "200"
+                    }
+                },
+                "title": "プロフェッショナル「はだしの船長、新たな海へ～釣り船船長・田代誠一郎～」",
+                "subtitle": "「素人でも釣らせる」という“はだしの船長”に密着！玄界灘を舞台に繰り広げられる大物ヒラマサとのバトル！運ではなく計算ずくで釣り上げる、船長・田代の神ワザとは！",
+                "genres": [
+                    "0807",
+                    "0800",
+                    "0804"
+                ]
+            },
+            "following": {
+                "id": "2020072119981",
+                "event_id": "19981",
+                "start_time": "2020-07-21T23:15:00+09:00",
+                "end_time": "2020-07-21T23:30:00+09:00",
+                "area": {
+                    "id": "130",
+                    "name": "東京"
+                },
+                "service": {
+                    "id": "g1",
+                    "name": "ＮＨＫ総合１",
+                    "logo_s": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+                        "width": "100",
+                        "height": "50"
+                    },
+                    "logo_m": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+                        "width": "200",
+                        "height": "100"
+                    },
+                    "logo_l": {
+                        "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+                        "width": "200",
+                        "height": "200"
+                    }
+                },
+                "title": "ニュースきょう一日　ＧｏＴｏ開始へ　キャンセル補償は　感染拡大対策は",
+                "subtitle": "新型コロナ感染確認　東京２３７人大阪府７２人愛知県５３人▽土用の丑　豪雨被災地　たれとのれん守った店▽槇原敬之被告　起訴内容認め謝罪▽はやぶさ２　次に向かう星は",
+                "genres": [
+                    "0000"
+                ]
+            }
+        }
+    }
+}
