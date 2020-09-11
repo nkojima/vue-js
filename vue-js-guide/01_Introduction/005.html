@@ -16,7 +16,25 @@
 </head>
 
 <body>
+  <div id="app-5">
+    <!-- ボタンクリックで文字列を反転させる。 -->
+    <p>{{ message }}</p>
+    <button v-on:click="reverseMessage">Reverse Message</button>
+  </div>
 </body>
 <script>
+  var app5 = new Vue({
+    el: '#app-5',
+    // データ部分
+    data: {
+      message: 'Hello Vue.js!'
+    },
+    // 処理部分
+    methods: {
+      reverseMessage: function () {
+        this.message = this.message.split('').reverse().join('')
+      }
+    }
+  })
 </script>
 </html>
