@@ -17,6 +17,7 @@
 
 <body>
   <div id="app-4">
+    <!-- "todos"のデータをリスト表示する。 -->
     <ol>
       <li v-for="todo in todos">
         {{ todo.text }}
@@ -25,7 +26,6 @@
   </div>
 </body>
 <script>
-// "todos"にのデータをリスト表示する。
 var app4 = new Vue({
   el: '#app-4',
   data: {
